@@ -1,6 +1,7 @@
 export default function useHistory (settings = {}) {
-  const { message } = settings;
+  const { message, test } = settings;
   return {
-    message
+    message,
+    test,
   };
 }
