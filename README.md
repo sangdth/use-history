@@ -6,15 +6,10 @@
 
 ## 🚀 Getting Started
 
-### tl;dr
-* `git clone https://github.com/sangdth/use-history [directory]`
-* `cd [directory]`
-* `yarn install && yarn develop`
-
-* Install packages
-
 ```
-yarn install
+$ git clone https://github.com/sangdth/use-history [directory]
+$ cd [directory]
+$ yarn install && yarn develop
 ```
 
 ### Developing
